@@ -1,4 +1,8 @@
-[{
-    "name": "Test",
-    "server": "switch.lan-play.com:11451"
-}]
+{
+    "version": "1",
+    "serverList": [{
+        "name": "lan-play.com",
+        "ip": "switch.lan-play.com",
+        "port": 11451,
+    }]
+}
