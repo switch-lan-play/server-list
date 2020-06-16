@@ -3,6 +3,6 @@
     "serverList": [{
         "name": "lan-play.com",
         "ip": "switch.lan-play.com",
-        "port": 11451,
+        "port": 11451
     }]
 }
